@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AanyaChauhan
+- 👋 Hi, I’m @Aanya
 - 👀 I’m interested in  Web
                         Development 
                         graphic designing..
