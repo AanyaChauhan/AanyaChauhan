@@ -3,7 +3,7 @@
                         Development .
 - 🌱 I’m have knowledge for various web dev skills..
 - 💞️ I’m looking to collaborate on ..Anything realted to web dev
-- 📫 How to reach me .mail me on my email id aanya.chauhan3108@gmail.com..
+- 📫 How to reach me .mail me on my email id aanyachauhan.dev@gmail.com..
 
 <!---
 AanyaChauhan/AanyaChauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
