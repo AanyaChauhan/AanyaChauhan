@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aanya
 - 👀 I’m interested in  Web
-                        Development 
-                        graphic designing..
+                        Development .
 - 🌱 I’m have knowledge for various web dev skills..
 - 💞️ I’m looking to collaborate on ..Anything realted to web dev
 - 📫 How to reach me .mail me on my email id aanya.chauhan3108@gmail.com..
